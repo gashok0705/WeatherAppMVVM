@@ -8,7 +8,8 @@ Ask the User for location access, If the User gives permission to access the loc
 
 # DesignPattern Followed:
 MVVM, TDD, UIKit
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-17 at 10 10 35](https://github.com/user-attachments/assets/ab0bad5d-e2d4-4d01-b6a9-395ab41aa2c9)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-17 at 10 12 43](https://github.com/user-attachments/assets/4e8d6d66-708c-45a9-893e-302910b460b9)
+
 
 
 # Screenshots:
