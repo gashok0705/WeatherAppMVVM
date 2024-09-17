@@ -8,9 +8,7 @@ Ask the User for location access, If the User gives permission to access the loc
 
 # DesignPattern Followed:
 MVVM, TDD, UIKit
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-17 at 10 12 43](https://github.com/user-attachments/assets/4e8d6d66-708c-45a9-893e-302910b460b9)
-
-
 
 # Screenshots:
 Enter your city name & you will get the details below as shown
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-17 at 10 12 43](https://github.com/user-attachments/assets/4e8d6d66-708c-45a9-893e-302910b460b9)
