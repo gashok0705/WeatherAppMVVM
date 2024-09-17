@@ -1,0 +1,6 @@
+framework module Pods_WeatherAppVirtusa {
+  umbrella header "Pods-WeatherAppVirtusa-umbrella.h"
+
+  export *
+  module * { export * }
+}
